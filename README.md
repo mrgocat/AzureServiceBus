@@ -9,5 +9,5 @@ https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet/GettingSta
 
 
 Queue Programming...
-github.com/Azure/azure-service-bus/tree/master/samples/DotNet/GettingStarted/Microsoft.Azure.ServiceBus/BasicSendReceiveUsingQueueClient
+https://github.com/Azure/azure-service-bus/tree/master/samples/DotNet/GettingStarted/Microsoft.Azure.ServiceBus/BasicSendReceiveUsingQueueClient
 
